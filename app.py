@@ -23,7 +23,8 @@ apps = [
     {"name": "exifexplorer", "url": "https://exifexplorer.streamlit.app/"},
     {"name": "passcheq", "url": "https://passcheq.streamlit.app/"},
     {"name": "xmlsgv", "url": "https://xmlsgv.streamlit.app/"},
-    {"name": "App Monitor", "url": "https://appmon.streamlit.app"}
+    {"name": "App Monitor", "url": "https://appmon.streamlit.app"},
+    {"name": "Style Scan", "url": "https://stylescan.streamlit.app"}
    
 ]
 
